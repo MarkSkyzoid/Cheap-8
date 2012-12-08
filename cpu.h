@@ -21,4 +21,6 @@ void cpu();
 
 byte draw_flag;
 
+void sleep(unsigned int mseconds);
+
 #endif
